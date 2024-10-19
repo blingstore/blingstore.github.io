@@ -1,5 +1,3 @@
-## Table of Contents
-
 1. [Logo](#logo)
 2. [Colors](#colors)
    * [Palette](#palette)
@@ -12,6 +10,10 @@
 6. [Do's & Don't's](#dos-and-donts)
 
 ## Logo
+
+<img src="/assets/logo/bling.svg" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
+
+[Download Logo (SVG)](/assets/logo/bling.svg)
 
 ## Colors
 
