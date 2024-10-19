@@ -2,7 +2,7 @@ Bling Store is software for jewelers with better inventory management, an onramp
 
 Learn about Bling - the software and the company - on this site.
 
-- [Getting Started] (start.md)
+- [Getting Started](start.md)
 - [Managing Your Store](admin/)
 - [Using the Digital Store](store/)
 - [Brand Guidelines](brand/)
