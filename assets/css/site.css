@@ -3,15 +3,18 @@
 .markdown-body h1:first-of-type {
   font-size: 1.25em !important;
   padding-bottom: 0.75em !important;
+  border: 0 !important;
 }
 .markdown-body h2 {
   font-size: 1.25em !important;
-  border: 0;
 }
 .markdown-body h3 {
   font-size: 1.125rem !important;
+  font-weight: normal;
 }
-.markdown-body h4,
+.markdown-body h4 {
+  text-transform: uppercase;
+}
 .markdown-body h5,
 .markdown-body h6 {
   font-size: 1rem !important;
