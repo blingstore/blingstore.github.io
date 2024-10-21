@@ -16,11 +16,12 @@
 ## Colors
 
 ### Palette
-| Color             | Hex       | Swatch |
-| ----------------- | --------- | ------ |
-| Oxford Blue       | #03274d   | <div style="background-color:#03274d;width:20px;height:20px;display:inline-block;border-radius:4px;"></div> |
-| Powder Blue       | #a7c0da   | <div style="background-color:#a7c0da;width:20px;height:20px;display:inline-block;border-radius:4px;"></div> |
-| Pale Blue         | #f2f7ff   | <div style="background-color:#f2f7ff;width:20px;height:20px;display:inline-block;border-radius:4px;border:1px solid #ddd;"></div> |
+
+| Color        | Hex     | Swatch                                                                                      |
+| ------------ | ------- | -------------------------------------------------------------------------------------------- |
+| Oxford Blue  | #03274d | <div style="background-color:#03274d;width:20px;height:20px;display:inline-block;border-radius:4px;"></div> |
+| Powder Blue  | #a7c0da | <div style="background-color:#a7c0da;width:20px;height:20px;display:inline-block;border-radius:4px;"></div> |
+| Pale Blue    | #f2f7ff | <div style="background-color:#f2f7ff;width:20px;height:20px;display:inline-block;border-radius:4px;border:1px solid #ddd;"></div> |
 
 ### Pairings
 Oxford Blue (#03274d) pairs well with Pale Blue (#f2f7ff) and Powder Blue (#a7c0da).
@@ -45,51 +46,60 @@ Oxford Blue (#03274d) pairs well with Pale Blue (#f2f7ff) and Powder Blue (#a7c0
 
 ### Jewelry Icons Grid
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap;">
 
 <div style="flex-basis: 25%; text-align: center;">
+  <a href="/assets/final_iconography/anklet.svg">
   <img src="/assets/final_iconography/anklet.svg" alt="Anklet Icon" style="max-width: 114px; max-height: 114px;">
-  <p><a href="/assets/final_iconography/anklet.svg">Download Anklet (SVG)</a></p>
+  </a>
 </div>
 
 <div style="flex-basis: 25%; text-align: center;">
+  <a href="/assets/final_iconography/bracelet.svg">
   <img src="/assets/final_iconography/bracelet.svg" alt="Bracelet Icon" style="max-width: 114px; max-height: 114px;">
-  <p><a href="/assets/final_iconography/bracelet.svg">Download Bracelet (SVG)</a></p>
+  </a>
 </div>
 
 <div style="flex-basis: 25%; text-align: center;">
+  <a href="/assets/final_iconography/chain.svg">
   <img src="/assets/final_iconography/chain.svg" alt="Chain Icon" style="max-width: 114px; max-height: 114px;">
-  <p><a href="/assets/final_iconography/chain.svg">Download Chain (SVG)</a></p>
+  </a>
 </div>
 
 <div style="flex-basis: 25%; text-align: center;">
+  <a href="/assets/final_iconography/circlet.svg">
   <img src="/assets/final_iconography/circlet.svg" alt="Circlet Icon" style="max-width: 114px; max-height: 114px;">
-  <p><a href="/assets/final_iconography/circlet.svg">Download Circlet (SVG)</a></p>
+  </a>
 </div>
 
 <div style="flex-basis: 25%; text-align: center;">
+  <a href="/assets/final_iconography/earrings.svg">
   <img src="/assets/final_iconography/earrings.svg" alt="Earrings Icon" style="max-width: 114px; max-height: 114px;">
-  <p><a href="/assets/final_iconography/earrings.svg">Download Earrings (SVG)</a></p>
+  </a>
 </div>
 
 <div style="flex-basis: 25%; text-align: center;">
+  <a href="/assets/final_iconography/headband.svg">
   <img src="/assets/final_iconography/headband.svg" alt="Headband Icon" style="max-width: 114px; max-height: 114px;">
-  <p><a href="/assets/final_iconography/headband.svg">Download Headband (SVG)</a></p>
+  </a>
 </div>
 
 <div style="flex-basis: 25%; text-align: center;">
+  <a href="/assets/final_iconography/necklace.svg">
   <img src="/assets/final_iconography/necklace.svg" alt="Necklace Icon" style="max-width: 114px; max-height: 114px;">
-  <p><a href="/assets/final_iconography/necklace.svg">Download Necklace (SVG)</a></p>
+  </a>
 </div>
 
 <div style="flex-basis: 25%; text-align: center;">
+  <a href="/assets/final_iconography/pendant.svg">
   <img src="/assets/final_iconography/pendant.svg" alt="Pendant Icon" style="max-width: 114px; max-height: 114px;">
-  <p><a href="/assets/final_iconography/pendant.svg">Download Pendant (SVG)</a></p>
+  </a>
 </div>
 
 <div style="flex-basis: 25%; text-align: center;">
+  <a href="/assets/final_iconography/ring.svg">
   <img src="/assets/final_iconography/ring.svg" alt="Ring Icon" style="max-width: 114px; max-height: 114px;">
-  <p><a href="/assets/final_iconography/ring.svg">Download Ring (SVG)</a></p>
+  </a>
 </div>
 
 </div>
