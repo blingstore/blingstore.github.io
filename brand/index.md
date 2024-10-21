@@ -18,7 +18,7 @@
 ### Palette
 
 | Color        | Hex     | Swatch                                                                                      |
-| ------------ | ------- | -------------------------------------------------------------------------------------------- |
+| ------------ | ------- | ------------------------------------------------------------------------------------------- |
 | Oxford Blue  | #03274d | <span style="background-color:#03274d;width:20px;height:20px;display:inline-block;border-radius:4px;"></span> |
 | Powder Blue  | #a7c0da | <span style="background-color:#a7c0da;width:20px;height:20px;display:inline-block;border-radius:4px;"></span> |
 | Pale Blue    | #f2f7ff | <span style="background-color:#f2f7ff;width:20px;height:20px;display:inline-block;border-radius:4px;border:1px solid #ddd;"></span> |
