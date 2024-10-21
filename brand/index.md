@@ -44,59 +44,59 @@ Oxford Blue (#03274d) pairs well with Pale Blue (#f2f7ff) and Powder Blue (#a7c0
 
 ## Iconography
 
-### Jewelry Icons Grid
+### Jewelry Icons
 
 <div style="display: flex; flex-wrap: wrap;">
 
-<div style="flex-basis: 25%; text-align: center;">
+<div style="flex-basis: 33%; text-align: center;">
   <a href="/assets/final_iconography/anklet.svg">
   <img src="/assets/final_iconography/anklet.svg" alt="Anklet Icon" style="max-width: 114px; max-height: 114px;">
   </a>
 </div>
 
-<div style="flex-basis: 25%; text-align: center;">
+<div style="flex-basis: 33%; text-align: center;">
   <a href="/assets/final_iconography/bracelet.svg">
   <img src="/assets/final_iconography/bracelet.svg" alt="Bracelet Icon" style="max-width: 114px; max-height: 114px;">
   </a>
 </div>
 
-<div style="flex-basis: 25%; text-align: center;">
+<div style="flex-basis: 33%; text-align: center;">
   <a href="/assets/final_iconography/chain.svg">
   <img src="/assets/final_iconography/chain.svg" alt="Chain Icon" style="max-width: 114px; max-height: 114px;">
   </a>
 </div>
 
-<div style="flex-basis: 25%; text-align: center;">
+<div style="flex-basis: 33%; text-align: center;">
   <a href="/assets/final_iconography/circlet.svg">
   <img src="/assets/final_iconography/circlet.svg" alt="Circlet Icon" style="max-width: 114px; max-height: 114px;">
   </a>
 </div>
 
-<div style="flex-basis: 25%; text-align: center;">
+<div style="flex-basis: 33%; text-align: center;">
   <a href="/assets/final_iconography/earrings.svg">
   <img src="/assets/final_iconography/earrings.svg" alt="Earrings Icon" style="max-width: 114px; max-height: 114px;">
   </a>
 </div>
 
-<div style="flex-basis: 25%; text-align: center;">
+<div style="flex-basis: 33%; text-align: center;">
   <a href="/assets/final_iconography/headband.svg">
   <img src="/assets/final_iconography/headband.svg" alt="Headband Icon" style="max-width: 114px; max-height: 114px;">
   </a>
 </div>
 
-<div style="flex-basis: 25%; text-align: center;">
+<div style="flex-basis: 33%; text-align: center;">
   <a href="/assets/final_iconography/necklace.svg">
   <img src="/assets/final_iconography/necklace.svg" alt="Necklace Icon" style="max-width: 114px; max-height: 114px;">
   </a>
 </div>
 
-<div style="flex-basis: 25%; text-align: center;">
+<div style="flex-basis: 33%; text-align: center;">
   <a href="/assets/final_iconography/pendant.svg">
   <img src="/assets/final_iconography/pendant.svg" alt="Pendant Icon" style="max-width: 114px; max-height: 114px;">
   </a>
 </div>
 
-<div style="flex-basis: 25%; text-align: center;">
+<div style="flex-basis: 33%; text-align: center;">
   <a href="/assets/final_iconography/ring.svg">
   <img src="/assets/final_iconography/ring.svg" alt="Ring Icon" style="max-width: 114px; max-height: 114px;">
   </a>
