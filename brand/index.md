@@ -9,9 +9,21 @@
 5. [Images](#images)
 6. [Do's & Don't's](#dos-and-donts)
 
-## Logo
-<img src="/assets/logo/Bling.svg" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
-[Download Logo (SVG)](/assets/logo/Bling.svg)
+## Logos
+
+### Logomark
+<img src="/assets/logo/Bling.svg" alt="Bling Store Logomark" style="max-width: 96px; max-height: 96px;">
+[Download Logomark (SVG)](/assets/logo/Bling.svg)
+
+<img src="/assets/logo/Bling.png" alt="Bling Store Logomark" style="max-width: 96px; max-height: 96px;">
+[Download Logomark (PNG)](/assets/logo/Bling.png)
+
+### Logo (with Trademark)
+<img src="/assets/logo/LogoTM.svg" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
+[Download Logo (SVG)](/assets/logo/LogoTM.svg)
+
+<img src="/assets/logo/LogoTM.png" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
+[Download Logo (PNG)](/assets/logo/LogoTM.png)
 
 ## Colors
 
