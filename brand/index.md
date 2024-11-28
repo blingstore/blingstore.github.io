@@ -12,18 +12,36 @@
 ## Logos
 
 ### Logomark
-<img src="/assets/logo/Bling.svg" alt="Bling Store Logomark" style="max-width: 96px; max-height: 96px;">
-[Download Logomark (SVG)](/assets/logo/Bling.svg)
 
-<img src="/assets/logo/Bling.png" alt="Bling Store Logomark" style="max-width: 96px; max-height: 96px;">
-[Download Logomark (PNG)](/assets/logo/Bling.png)
+<div style="display: flex; gap: 16px; align-items: center;">
+
+<div style="text-align: center; flex: 1;">
+  <img src="/assets/logo/Bling.svg" alt="Bling Store Logomark" style="max-width: 96px; max-height: 96px;">
+  <p><a href="/assets/logo/Bling.svg">Download Logomark (SVG)</a></p>
+</div>
+
+<div style="text-align: center; flex: 1;">
+  <img src="/assets/logo/Bling.png" alt="Bling Store Logomark" style="max-width: 96px; max-height: 96px;">
+  <p><a href="/assets/logo/Bling.png">Download Logomark (PNG)</a></p>
+</div>
+
+</div>
 
 ### Logo (with Trademark)
-<img src="/assets/logo/LogoTM.svg" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
-[Download Logo (SVG)](/assets/logo/LogoTM.svg)
 
-<img src="/assets/logo/LogoTM.png" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
-[Download Logo (PNG)](/assets/logo/LogoTM.png)
+<div style="display: flex; gap: 16px; align-items: center;">
+
+<div style="text-align: center; flex: 1;">
+  <img src="/assets/logo/LogoTM.svg" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
+  <p><a href="/assets/logo/LogoTM.svg">Download Logo (SVG)</a></p>
+</div>
+
+<div style="text-align: center; flex: 1;">
+  <img src="/assets/logo/LogoTM.png" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
+  <p><a href="/assets/logo/LogoTM.png">Download Logo (PNG)</a></p>
+</div>
+
+</div>
 
 ## Colors
 
