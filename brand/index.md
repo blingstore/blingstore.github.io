@@ -32,13 +32,13 @@
 <div style="display: flex; gap: 16px; align-items: center;">
 
 <div style="text-align: center; flex: 1;">
-  <img src="/assets/logo/LogoTM.svg" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
-  <p><a href="/assets/logo/LogoTM.svg">Download Logo (SVG)</a></p>
+  <img src="/assets/logo/logo_tm.svg" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
+  <p><a href="/assets/logo/logo_tm.svg">Download Logo (SVG)</a></p>
 </div>
 
 <div style="text-align: center; flex: 1;">
-  <img src="/assets/logo/LogoTM.png" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
-  <p><a href="/assets/logo/LogoTM.png">Download Logo (PNG)</a></p>
+  <img src="/assets/logo/logo_tm.png" alt="Bling Store Logo" style="max-width: 96px; max-height: 96px;">
+  <p><a href="/assets/logo/logo_tm.png">Download Logo (PNG)</a></p>
 </div>
 
 </div>
