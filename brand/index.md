@@ -41,6 +41,11 @@
   <p><a href="/assets/logo/logo_tm.png">Download Logo (PNG)</a></p>
 </div>
 
+<div style="text-align: center; flex: 1;">
+  <img src="/assets/logo/logo_tm_white.svg" alt="Bling Store Logo White" style="max-width: 96px; max-height: 96px;">
+  <p><a href="/assets/logo/logo_tm_white.svg">Download Logo (SVG)</a></p>
+</div>
+
 </div>
 
 ## Colors
