@@ -5,9 +5,10 @@
 3. [Typography](#typography)
    * [Fonts](#fonts)
    * [Sizes](#sizes)
-4. [Iconography](#iconography)
-5. [Images](#images)
-6. [Do's & Don't's](#dos-and-donts)
+   * [Corner Rounding](#corner-rounding)
+6. [Iconography](#iconography)
+7. [Images](#images)
+8. [Do's & Don't's](#dos-and-donts)
 
 ## Logos
 
@@ -55,17 +56,17 @@
 | Color        | Hex     | Swatch                                                                                      |
 | ------------ | ------- | ------------------------------------------------------------------------------------------- |
 | Oxford Blue  | #03274d | <span style="background-color:#03274d;width:20px;height:20px;display:inline-block;border-radius:4px;"></span> |
-| Powder Blue  | #a7c0da | <span style="background-color:#a7c0da;width:20px;height:20px;display:inline-block;border-radius:4px;"></span> |
-| Pale Blue    | #f2f7ff | <span style="background-color:#f2f7ff;width:20px;height:20px;display:inline-block;border-radius:4px;border:1px solid #ddd;"></span> |
+| Gold         | #e9d35e | <span style="background-color:#a7c0da;width:20px;height:20px;display:inline-block;border-radius:4px;"></span> |
+| Ivory        | #fbfbfb | <span style="background-color:#fbfbfb;width:20px;height:20px;display:inline-block;border-radius:4px;border:1px solid #ddd;"></span> |
 
 ### Pairings
-Oxford Blue (#03274d) pairs well with Pale Blue (#f2f7ff) and Powder Blue (#a7c0da).
+Oxford Blue (#03274d) pairs well with Gold (#e9d35e) and Pale Blue (#f2f7ff).
 
 ## Typography
 
 ### Fonts
-- **Primary Font**: Metropolis (for headings, titles, and important text)
-- **Secondary Font**: Helvetica (for body text and other elements)
+- **Primary Font**: Inter san-serif Weight:900/black (for headings, titles, and important text)
+- **Secondary Font**: Inter san-serif Weight:400/regular (for body text and other elements)
 
 ### Sizes
 - **Headings (h1 to h6):**
@@ -76,6 +77,9 @@ Oxford Blue (#03274d) pairs well with Pale Blue (#f2f7ff) and Powder Blue (#a7c0
   - h5: 1.25rem
   - h6: 1rem
 - **Body text**: 1rem (16px)
+
+### Corner Rounding
+**4px** rounding to be used universally.
 
 ## Iconography
 
