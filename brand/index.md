@@ -58,9 +58,10 @@
 | Oxford Blue  | #03274d | <span style="background-color:#03274d;width:20px;height:20px;display:inline-block;border-radius:4px;"></span> |
 | Gold         | #e9d35e | <span style="background-color:#a7c0da;width:20px;height:20px;display:inline-block;border-radius:4px;"></span> |
 | Ivory        | #fbfbfb | <span style="background-color:#fbfbfb;width:20px;height:20px;display:inline-block;border-radius:4px;border:1px solid #ddd;"></span> |
+| Powder Blue  | #dde2e8 | <span style="background-color:#dde2e8;width:20px;height:20px;display:inline-block;border-radius:4px;"></span> |
 
 ### Pairings
-Oxford Blue (#03274d) pairs well with Gold (#e9d35e) and Ivory (#fbfbfb).
+Oxford Blue (#03274d) pairs well with Gold (#e9d35e), Ivory (#fbfbfb) and Powder Blue (#dde2e8).
 
 ## Typography
 
