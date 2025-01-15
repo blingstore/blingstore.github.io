@@ -60,7 +60,7 @@
 | Ivory        | #fbfbfb | <span style="background-color:#fbfbfb;width:20px;height:20px;display:inline-block;border-radius:4px;border:1px solid #ddd;"></span> |
 
 ### Pairings
-Oxford Blue (#03274d) pairs well with Gold (#e9d35e) and Pale Blue (#f2f7ff).
+Oxford Blue (#03274d) pairs well with Gold (#e9d35e) and Ivory (#fbfbfb).
 
 ## Typography
 
